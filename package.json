@@ -5,7 +5,7 @@
     , "web": "https://github.com/shripadk"
     }
   ]
-, "version": "0.6.4"
+, "version": "0.6.5"
 , "repository" :
   { "type" : "git"
   , "url" : "http://github.com/shripadk/nodeunit.git"
